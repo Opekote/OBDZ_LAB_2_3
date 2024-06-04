@@ -1,7 +1,4 @@
-﻿using NHibernate.Mapping.ByCode;
-using NHibernate.Mapping.ByCode.Conformist;
-
-namespace lab_2_3.Entities
+﻿namespace lab_2_3.Entities
 {
     public class Customer
     {
